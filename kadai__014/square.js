@@ -1,5 +1,5 @@
 const double = (num) => {
-    return num * 2;
+    console.log(num * 2);
 }
 
-console.log(double(50));
+double(50);
